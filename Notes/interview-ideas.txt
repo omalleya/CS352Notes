@@ -1,0 +1,5 @@
+Observations:
+  Have user try to create a collaborative playlist on Spotify
+  Have user try to create a collaborative playlist on SoundCloud
+
+  Log time it takes to figure out how to do it/give up
